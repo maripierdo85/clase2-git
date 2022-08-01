@@ -1,6 +1,6 @@
 (function($) {
 
-	"use strct";
+	"use strict";
 
 
 })(jQuery);
